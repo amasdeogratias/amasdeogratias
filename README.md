@@ -1,17 +1,20 @@
-<h1 align="center">Hi 👋, I'm Deogratias Amasi</h1>
-<h3 align="center">A passionate fullstack developer from Tanzania</h3>
+## 👋 Hi, I'm Deogratias
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amasdeogratias&label=Profile%20views&color=0e75b6&style=flat" alt="amasdeogratias" /> </p>
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Developer;Tech+Enthusiast;Open+Source+Contributor)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amasdeogratias" alt="amasdeogratias" /></a> </p>
+I’m a software developer with **5+ years of experience**, driven by curiosity and a genuine love for developing softwares.
+I know growth comes from continuous learning, clean design, and solving real problems.  
+I’m not at the top yet and that’s exactly what keeps me motivated. The good thing is I am having fun as well.
 
-- 🌱 I’m currently learning **Reacts and Nodejs**
+- 💻 Software Developer
+- 🚀 Currently working on interesting and impactful projects
+- 🧩 Strong interest in clean architecture & open-source
+- 📍 Based in Tanzania
 
 - 👨‍💻 All of my projects are available at [https://amasdeogratias.github.io/](https://amasdeogratias.github.io/)
 
-- 📫 How to reach me **deogratiasprog@gmail.com**
+- 📫 Connect with me **deogratiasprog@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
