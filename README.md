@@ -22,8 +22,6 @@ I’m not at the top yet and that’s exactly what keeps me motivated. The good 
 
 ---
 
----
-
 ### 📫 How to reach me
 - 📧 Email: **deogratiasamas@gmail.com** 
 - 💼 Website: [https://amasdeogratias.github.io/](https://amasdeogratias.github.io/)
