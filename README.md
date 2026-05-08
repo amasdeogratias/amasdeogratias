@@ -22,9 +22,6 @@ I’m not at the top yet and that’s exactly what keeps me motivated. The good 
 
 ---
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amasdeogratias&show_icons=true&locale=en" alt="amasdeogratias" /></p>
-
 ---
 
 ### 📫 How to reach me
